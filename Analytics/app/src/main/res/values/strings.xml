@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Analytics</string>
+    <string name="google_analytics_id">UA-80675983-1</string>
+</resources>
